@@ -407,6 +407,7 @@
 				A91187F81A33AC7900C0875F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A91187F91A33AC7900C0875F /* Build configuration list for PBXNativeTarget "DeviceTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				A91187FB1A33AC7900C0875F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
